@@ -1,0 +1,7 @@
+packages:
+  - 'server'
+  - 'client'
+  - 'shared'
+allowBuilds:
+  node: false
+injectWorkspacePackages: true
